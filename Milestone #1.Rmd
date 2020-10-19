@@ -1,0 +1,15 @@
+---
+title: 'Milestone #1'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#Milestone 1 for Julia Blank
+# So, I've been doing lots of thinking about this project over the course of this week and believe that I want to do my project on international judging bias in subjective olympic sports. I think I would like to primarily focus on figure skating and if I can find other data I will expand to sports like Diving and Gymnastics. I've been looking at potential data sets and previous research. The ISU does have data but the tables are not conveniently exrtractable. A professor at Darmouth who was a Harvard graduate Eric Zitzewitz wrote a paper on figure skating judging that I can look at and examine further for data ideas. I'm most interested in whether the nation a judge comes from has a statistically significant impact on scoring outcomes. As an avid fan of sports, especially olympic sports that tend to be subjective, I'm really interested in investigating this topic further and hope to have the ability to make this project a reality. If I can't find good data and methods for analyzing my sports data, my backup project is a statistical analysis of how likely a swing state is likely to flip based on historical electoral college data. My hypothesis is that historical data is a much better predictor of how likely a state is to flip parties than any current event and its impact. Anyway, I have lots of ideas but will probably need help in figuring out how to get data and what metrics I should analyze.  
+
+```
+
